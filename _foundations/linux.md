@@ -39,7 +39,7 @@ governance:
   employees: "170"
 finance:
   funding: "sponsors"
-  budgetUSD: "35M"
+  budgetUSD: "69M"
   budgetURL: "https://projects.propublica.org/nonprofits/organizations/460503801"
   sponsorURL: "https://www.linuxfoundation.org/membership/members/"
   sponsorList: "AT&T, Cisco, Fujitsu, Hitachi, Huawei, IBM, Intel, Microsoft, NEC, Oracle, Qualcomm, Samsung"
